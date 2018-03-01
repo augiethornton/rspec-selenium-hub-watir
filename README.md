@@ -3,7 +3,7 @@
 ### Gemfile
 
     group :test do
-      gem 'watir-rails's
+      gem 'watir-rails'
       gem 'watir-rspec'
     end
 
